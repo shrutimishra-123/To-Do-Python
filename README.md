@@ -18,3 +18,6 @@ A simple command-line to-do list app written in Python.
 
 ```bash
 python todo.py
+
+output:
+![image](https://github.com/user-attachments/assets/defe65c2-12f8-4ea6-993d-be6c8615294b)
