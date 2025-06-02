@@ -20,4 +20,4 @@ A simple command-line to-do list app written in Python.
 python todo.py
 
 output:
-![image](https://github.com/user-attachments/assets/defe65c2-12f8-4ea6-993d-be6c8615294b)
+![Screenshot 2025-06-02 203607](https://github.com/user-attachments/assets/29a786a6-c023-48ff-b96d-cdc1e1888863)
