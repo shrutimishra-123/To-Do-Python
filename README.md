@@ -16,8 +16,11 @@ A simple command-line to-do list app written in Python.
 
 ### How to Run
 
+
+![Screenshot 2025-06-02 203607](https://github.com/user-attachments/assets/8ccd93e1-44b0-4136-ba3a-ad0a3929e7e8)
+
+
 ```bash
 python todo.py
 
-output:
-![Screenshot 2025-06-02 203607](https://github.com/user-attachments/assets/29a786a6-c023-48ff-b96d-cdc1e1888863)
+
